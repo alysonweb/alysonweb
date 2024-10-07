@@ -1,8 +1,8 @@
-### Olá, eu sou Alyson Ramos 👋
+### Olá, eu sou Alyson de Moraes Ramos 👋
 
 
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas;
-- 📚 Graduando em Engenharia de Software;
+- 📚 Graduado em Engenharia de Software;
 - 🌱 Estudando Desenvolvimento Front-end;
 - 📱 Curioso explorando desenvolvimento Mobile;
 - 📫 Entre em contato comigo pelo e-mail: alysonweb@gmail.com.
